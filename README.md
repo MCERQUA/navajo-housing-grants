@@ -1,11 +1,11 @@
-# Navajo Housing Grant Assistant
+# Navajo Grant Assistant
 
-Yá'át'ééh! A culturally sensitive, AI-powered web application designed to help Navajo Nation members complete federal housing grant applications with step-by-step guidance and intelligent assistance.
+Yá'át'ééh! A culturally sensitive, AI-powered web application designed to help Navajo Nation members complete federal grant applications with step-by-step guidance and intelligent assistance.
 
 ## 🏠 Features
 
 - **Step-by-Step Form Guidance**: 5 comprehensive steps covering all necessary federal grant information
-- **AI-Powered Assistant**: OpenAI GPT-4o-mini integration with focused housing grant expertise
+- **AI-Powered Assistant**: OpenAI GPT-4o-mini integration with focused grant expertise
 - **Rate Limited & Secure**: 20 questions per hour limit to prevent API abuse
 - **Mobile Responsive**: Optimized for all devices with prevent-zoom functionality
 - **Cultural Sensitivity**: Designed specifically for Navajo Nation community members
@@ -123,14 +123,14 @@ Yá'át'ééh! A culturally sensitive, AI-powered web application designed to he
 
 ### Focused Assistance
 The AI assistant is specifically programmed to:
-- ✅ Help with housing grant applications
+- ✅ Help with federal grant applications
 - ✅ Explain federal assistance programs
 - ✅ Guide through form completion
 - ✅ Answer eligibility questions
-- ✅ Provide Navajo-specific housing resources
+- ✅ Provide Navajo-specific grant resources
 
 - ❌ **Will NOT answer off-topic questions** (food, weather, entertainment, etc.)
-- ❌ Politely redirects non-housing-related queries
+- ❌ Politely redirects non-grant-related queries
 
 ## 📱 Mobile Optimization
 
@@ -202,10 +202,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - Navajo Nation Housing Authority
-- Federal housing assistance programs
+- Federal grant assistance programs
 - OpenAI for AI capabilities
 - React and open-source community
 
 ---
 
-**Ahéhee'** (Thank you) for helping make housing assistance more accessible to the Navajo Nation community!
+**Ahéhee'** (Thank you) for helping make federal grant assistance more accessible to the Navajo Nation community!
