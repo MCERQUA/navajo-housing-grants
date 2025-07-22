@@ -691,7 +691,10 @@ Complete application can be viewed at: ${window.location.href}
       <div className="bg-red-800 text-white p-4">
         <div className="max-w-6xl mx-auto">
           <h1 className="text-2xl font-bold">Navajo Grant Assistant</h1>
-          <p className="text-red-100">Welcome! Complete your federal grant application with AI assistance</p>
+          <p className="text-red-100">Complete federal grant applications with AI assistance</p>
+          <div className="text-red-200 text-sm mt-1">
+            NAHASDA • IHBG • Section 184 • USDA • Rural Development • Title VI
+          </div>
         </div>
       </div>
       
