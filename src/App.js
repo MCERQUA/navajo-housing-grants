@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
-import { MessageCircle, Download, Share2, Mail, FileText, CheckCircle, AlertCircle, Send } from 'lucide-react';
+import { MessageCircle, Download, Share2, Mail, CheckCircle, AlertCircle, Send } from 'lucide-react';
 
 const NavajoHousingGrantApp = () => {
   const inputClassName = "w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500";
@@ -83,7 +83,7 @@ const NavajoHousingGrantApp = () => {
         localStorage.removeItem('lastRequestTime');
       }
     }
-  }, []);
+  }, [RATE_LIMIT_WINDOW]);
   
   const steps = [
     { id: 1, title: 'Personal Information', icon: '👤' },
